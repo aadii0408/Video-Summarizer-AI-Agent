@@ -24,6 +24,9 @@ The **Phidata Video AI Summarizer Agent** is an advanced tool powered by **Gemin
 3. **Chat with the Video** – Ask questions related to the video content and get real-time AI-generated responses.
 4. **Enhanced Understanding** – Gain insights quickly without watching the entire video.
 
+Demo:
+[Video_Summary_Demo.pdf](https://github.com/user-attachments/files/18650330/Video_Summary_Demo.pdf)
+
 ### 📌 Use Cases
 - **Education** – Summarize and interact with lecture videos.
 - **Research** – Extract key insights from scientific talks.
